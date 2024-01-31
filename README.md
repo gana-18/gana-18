@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭I am currently working on ReactJs <br>
+🔭I am currently working on TypeScript <br>
 ☀️Ask me about any tech stuff <br>
 📨How to reach me: Email-velichetiganasaiteja@gmail.com <br>
 🙂Pronounce: He/Him <br>
